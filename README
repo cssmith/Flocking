@@ -1,0 +1,3 @@
+A naive implementation of flocking and boids using OpenCV.
+
+See http://cssmith.posterous.com/ for details.
