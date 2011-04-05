@@ -1,3 +1,7 @@
+//
+// Patrick Smith, pjs482@gmail.com
+//
+
 #ifndef BOID_H
 #define BOID_H
 

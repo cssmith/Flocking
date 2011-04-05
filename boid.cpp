@@ -1,3 +1,7 @@
+//
+// Patrick Smith, pjs482@gmail.com
+// 
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <gl/glut.h>

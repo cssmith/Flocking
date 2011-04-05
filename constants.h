@@ -1,3 +1,7 @@
+//
+// Patrick Smith, pjs482@gmail.com
+//
+
 #ifndef CONSTANTS_H
 #define CONSTANTS_H
 
